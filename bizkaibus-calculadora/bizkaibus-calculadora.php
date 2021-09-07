@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Calculadora Bizkaibus
- * Plugin URI:  https://www.enutt.net/
+ * Plugin URI:  https://github.com/gwannon/bizkaibus-calculadora/
  * Description: Formulario para realizar un presupuesto de publicidad en los autobuses de Bizkaibus
  * Version:     1.0
- * Author:      Eñutt
- * Author URI:  https://www.enutt.net/
+ * Author:      Gwannon
+ * Author URI:  https://github.com/gwannon/
  * License:     GNU General Public License v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: bizkaibus-calculadora

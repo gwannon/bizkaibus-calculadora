@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bizkaibus-calculadora\n"
+"POT-Creation-Date: 2021-09-07 10:23+0200\n"
+"PO-Revision-Date: 2021-09-07 10:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: jorge@enutt.net\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bizkaibus-calculadora.php:69
+msgid "Comarca"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:72 ../bizkaibus-calculadora.php:227
+msgid "Gran Bilbao"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:73
+msgid "Arratia"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:74
+msgid "Ayala y Alto nervión"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:75
+msgid "Busturialdea"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:76
+msgid "Duranguesado"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:77
+msgid "Encartaciones"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:78
+msgid "Gorbeialdea"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:79
+msgid "Lea-Artibai"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:80
+msgid "Medio y Bajo Deba"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:81
+msgid "Uribe"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:83
+msgid "Ver mapa"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:87
+msgid "Nombre"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:88
+msgid "Email"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:89
+msgid "Teléfono"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:91 ../bizkaibus-calculadora.php:144
+msgid "Solicitar presupuesto"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:92 ../bizkaibus-calculadora.php:145
+msgid "Se enviará un email con el presupuesto<br/>al email que nos des."
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:100
+msgid "Posición"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:106
+msgid "STANDARD"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:106
+msgid "Hasta <strong>56,15%</strong> de descuento"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:120
+msgid "EXPO"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:120
+msgid "Hasta <strong>82,37%</strong> de descuento"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:133
+msgid "EXPO XL"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:133
+msgid "Hasta <strong>80,49%</strong> de descuento"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:163
+msgid "Presupuesto"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:165
+#, php-format
+msgid "Hemos enviado una versión digital del presupuesto a tu email (%s)."
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:170
+msgid "Tarifa al mes"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:175
+msgid "Oferta del mes*"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:180
+msgid "Descuento del"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:185
+msgid "Producción e instalación"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:191
+msgid "Total por 3 meses + Producción + Instalación:"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:194
+msgid ""
+"* Oferta especial para un periodo de contratación de 3 meses. IVA no "
+"incluido."
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:196
+msgid "Nuevo presupuesto"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:214
+#, php-format
+msgid "<br/><br/>Puedes descargar todo los leads <a href='%s'>aquí</a>."
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:231
+msgid "Standard"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:233
+msgid "Expo"
+msgstr ""
+
+#: ../bizkaibus-calculadora.php:235
+msgid "Expo XL"
+msgstr ""
+
+#: ../vc-elements/vc-calculator.php:17
+msgid "Bloques Especiales"
+msgstr ""
+
+#: ../vc-elements/vc-calculator.php:22
+msgid "Email de aviso"
+msgstr ""
+
+#: ../vc-elements/vc-calculator.php:28
+msgid "Asunto email de aviso"
+msgstr ""
+
+#: ../vc-elements/vc-calculator.php:34
+msgid "From email de presupuesto"
+msgstr ""
+
+#: ../vc-elements/vc-calculator.php:40
+msgid "Asunto email de presupuesto"
+msgstr ""
+
+#: ../vc-elements/vc-calculator.php:46
+msgid "Texto email de presupuesto"
+msgstr ""
